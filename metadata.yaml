@@ -1,0 +1,29 @@
+_repo: Lord-ChathamHis-Early-Life-and-Connections_38452
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38452-h/images/cover.png
+creator:
+  author:
+    agent_name: Rosebery, Archibald Philip Primrose, Earl of
+    aliases:
+    - Rosebery, Lord
+    - Primrose, Archibald Philip, Earl of Rosebery
+    birthdate: 1847
+    deathdate: 1929
+    gutenberg_agent_id: '39482'
+    url: http://www.gutenberg.org/2009/agents/39482
+description: ''
+gutenberg_issued: '2012-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38452'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pitt, William, Earl of Chatham, 1708-1778'
+- !lcc 'DA'
+title: Lord Chatham, His Early Life and Connections
+url: http://www.gutenberg.org/ebooks/38452
